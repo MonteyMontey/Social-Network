@@ -1,0 +1,6 @@
+[submodule "social-net-back"]
+	path = social-net-back
+	url = https://github.com/MonteyMontey/social-net-back.git
+[submodule "social-net-front"]
+	path = social-net-front
+	url = https://github.com/MonteyMontey/social-net-front.git
