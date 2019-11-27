@@ -10,3 +10,5 @@
 1. Then type `npm install` and then `npm start`.
 1. Now cd into the other folder `social-net-front/` and type `npm install` and then `npm start` as well.
 1. The social network should now be running at `localhost://3000`.
+
+*tested with npm v6.12.1, MongoDB v4.2.1 and Neo4j v3.5.12*
