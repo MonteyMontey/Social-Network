@@ -1,5 +1,16 @@
 # Social-Network
 
+
+## Features
+- Registration & login
+- Writing posts
+- Seeing posts from other users
+- Searching for users via search box
+- Visiting profile pages of all users
+- Sending friend requests to other users
+- Receiving friend request notifications and the option to accept or decline it
+
+
 ## Instructions to run it locally
 
 1. Install and run [MongoDB](https://www.mongodb.com/). Detailed installation instructions for all operating systems can be found [here](https://docs.mongodb.com/manual/administration/install-community/).
