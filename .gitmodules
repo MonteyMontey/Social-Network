@@ -4,3 +4,6 @@
 [submodule "social-net-front"]
 	path = social-net-front
 	url = https://github.com/MonteyMontey/social-net-front.git
+[submodule "social-net-logging"]
+	path = social-net-logging
+	url = https://github.com/MonteyMontey/social-net-logging
