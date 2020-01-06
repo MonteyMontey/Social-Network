@@ -18,8 +18,8 @@
 1. Clone this repository and cd into it.
 1. Type `git submodule init` and `git submodule update` to fetch the submodules.
 1. Now cd into the folder `social-net-back/`, open the `.env` file and insert your Neo4j database password. All other values should be fine, assuming you didn't change the defaults.
-1. Then type `npm install` and then `npm start`.
-1. Now cd into the other folder `social-net-front/` and type `npm install` and then `npm start` as well.
+1. Then type `npm install` and `npm start` to start the nodejs server.
+1. Now cd into the folders `social-net-front/` and `social-net-logging/` and execute `npm install` and `npm start` there as well in order to start the react app and the logging server.
 1. The social network should now be running at `localhost://3000`.
 
 *tested with npm v6.12.1, MongoDB v4.2.1 and Neo4j v3.5.12*
