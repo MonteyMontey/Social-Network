@@ -27,4 +27,4 @@
 
 ## Live Demo
 
-If you don't want to run it locally feel free to check out the [live demo](http://35.246.238.190:3000/).
+~~If you don't want to run it locally feel free to check out the [live demo](http://35.246.238.190:3000/).~~
